@@ -18,23 +18,10 @@ ResuMeAI is a cutting-edge web-based platform designed to simplify resume creati
 ---
 
 ## Technologies Behind ResuMeAI
-### AI and Backend:
-| Technology       | Badge                                                                                     |
-|------------------|-------------------------------------------------------------------------------------------|
-| **Strapi**       | ![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) |
-| **Gemini AI**    | Custom AI technology powering the resume generation process.                              |
-
-### Frontend:
-| Technology       | Badge                                                                                     |
-|------------------|-------------------------------------------------------------------------------------------|
-| **React**        | ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)   |
-| **Tailwind CSS** | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-
-### Authentication:
-| Technology       | Badge                                                                                     |
-|------------------|-------------------------------------------------------------------------------------------|
-| **Clerk**        | ![Clerk](https://img.shields.io/badge/Clerk-%234E69FF.svg?style=for-the-badge&logo=clerk&logoColor=white) |
-
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Strapi (Headless CMS)
+- **Authentication**: Clerk
+- **AI Integration**: Gemini
 ---
 
 ## Setup ResuMeAI Locally
@@ -45,8 +32,7 @@ Make sure you have the following installed:
 ### 2. Installation Steps
 #### a) Clone the Project
 ```bash
-git clone https://github.com/your-username/resumeai.git
-cd resumeai
+https://github.com/ryshel-jasmi/ResuMeAI-AI-Resume-Builder.git
 ```
 
 #### b) Install Dependencies
@@ -74,8 +60,3 @@ Visit the application in your browser at:
 ```
 http://localhost:5173/
 ```
-
----
-
-
-
