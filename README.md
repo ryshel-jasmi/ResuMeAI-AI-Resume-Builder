@@ -1,15 +1,6 @@
 # ResuMeAI: AI Resume Builder
 
-<table>
-<tr>
-<td>
-<img src="assets/icon.png" alt="ResuMeAI Logo" width="200%" height="200%">
-</td>
-<td>
-<b><i>ResuMeAI is a cutting-edge web-based platform designed to simplify resume creation by leveraging AI technology. It enables users to generate, manage, and download professional resumes seamlessly. With its intuitive interface and AI-powered features, ResuMeAI ensures that users can craft resumes tailored to their unique needs and job aspirations.</i></b>
-</td>
-</tr>
-</table>
+ResuMeAI is a cutting-edge web-based platform designed to simplify resume creation by leveraging AI technology. It enables users to generate, manage, and download professional resumes seamlessly. With its intuitive interface and AI-powered features, ResuMeAI ensures that users can craft resumes tailored to their unique needs and job aspirations.
 
 ## Features
 - **🤖 AI-Powered Resume Generation**:   
